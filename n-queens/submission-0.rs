@@ -1,0 +1,3 @@
+fn solution() {{
+    // n-queens
+}}
