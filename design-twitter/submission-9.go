@@ -1,0 +1,3 @@
+func solution() {{
+    // design-twitter
+}}
