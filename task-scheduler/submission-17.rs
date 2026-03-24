@@ -1,0 +1,3 @@
+fn solution() {{
+    // task-scheduler
+}}
